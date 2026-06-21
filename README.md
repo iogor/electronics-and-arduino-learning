@@ -18,6 +18,6 @@ This repository documents my journey learning eletronics and arduino.
 
 ## What I've learned so far
 
-### Electrical quantities (Voltage, Current, Resistance), Ohm's Law
+Electrical quantities (Voltage, Current, Resistance), Ohm's Law
 
 - ...
